@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1794354067 source:c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\date.cpp
+	"Date.h"
+	<iostream>
+
+1794354067 c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\date.h
+	<iostream>
+
+1794355435 source:c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\funcptr.cpp
+	"FuncPtr.h"
+	<iostream>
+	"Vector.h"
+
+1794354535 c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\funcptr.h
+	"WeatherRecType.h"
+	"Vector.h"
+
+1794354535 c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\weatherrectype.h
+	"Date.h"
+
+1794354066 c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\vector.h
+
+1794355435 source:c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\readfile.cpp
+	"ReadFile.h"
+	"Date.h"
+	<string>
+	<sstream>
+	<map>
+	"Vector.h"
+	<fstream>
+
+1794354535 c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\readfile.h
+	"Bst.h"
+	"Date.h"
+	<fstream>
+	<map>
+	"Vector.h"
+	"WeatherRecType.h"
+
+1794354067 c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\bst.h
+	<iostream>
+
+1794354066 source:c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\stat.cpp
+	"Stat.h"
+	<cmath>
+	"Vector.h"
+	<iomanip>
+
+1794354535 c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\stat.h
+	"Vector.h"
+
+1794356168 source:c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\menuoption.cpp
+	"MenuOption.h"
+	"Vector.h"
+	<map>
+	"Bst.h"
+	"FuncPtr.h"
+	<fstream>
+	"Stat.h"
+	<iomanip>
+
+1794354717 c:\users\louis\onedrive\desktop\ict283 data structures and abstractions\ict283_assignment2_suanyeow_tan_36043861\ict283_assignment2_suanyeow_tan_36043861\menuoption.h
+	"Vector.h"
+	"Bst.h"
+	<map>
+	<string>
+	"WeatherRecType.h"
+
